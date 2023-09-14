@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Código Base Del Proyecto React Youtube Clone Hecho En React.js y Material-UI En Fase De Desarrollo.
+Código Base Del Proyecto React Youtube Clone Hecho En React.js y Material-UI.
 
 ---
 
@@ -24,8 +24,16 @@ Código Base Del Proyecto React Youtube Clone Hecho En React.js y Material-UI En
 
 ---
 
+## Hecho con
+
+- [React](https://react.dev/) - JS library
+- [Material-UI](https://mui.com/) - For Styles
+
+---
+
 ## Comandos
 
+- npm i
 - npm start
 - npm run build
 
@@ -40,3 +48,9 @@ Código Base Del Proyecto React Youtube Clone Hecho En React.js y Material-UI En
 - React-Player
 - React-Router-Dom
 - Youtube-Clone
+
+---
+
+## Autor
+
+- Website - [Axe10rellana](https://axe10rellana.github.io/portafolio/portafolio/)
