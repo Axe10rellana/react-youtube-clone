@@ -1,6 +1,7 @@
 {
   "name": "react-youtube-clone",
-  "version": "0.0.1",
+  "description": "Código Base Del Proyecto React Youtube Clone Hecho En React.js y Material-UI.",
+  "version": "1.0.0",
   "private": true,
   "homepage": "./",
   "dependencies": {

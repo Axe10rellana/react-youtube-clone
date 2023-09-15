@@ -1,4 +1,3 @@
-//importaciones
 import React from "react";
 
 //react-router-dom
@@ -7,7 +6,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 //material-ui
 import { Box } from "@mui/material";
 
-//componentes
+//components
 import {
   Navbar,
   Feed,
